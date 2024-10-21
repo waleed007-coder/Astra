@@ -7,7 +7,7 @@ html {
   color: #333;
 }
 .picContainer {
-  background-image: url("/pics/hero-section.webp");
+  background-image: url("./pics/hero-section.webp");
   background-size: cover;
   background-position: center;
 }
