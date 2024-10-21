@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: url("/pics/hero-section.webp");
+  background-image: url("./pics/hero-section.webp");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
